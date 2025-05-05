@@ -2,7 +2,7 @@
 
 Here I had compared 1-star reviews and 5-star reviews and how they generally differ based on the words alone.
 
-
+![Shifterator Chart](https://github.com/rizkyfernanda/P2--Spotify-Review-Analysis/blob/main/graphs/graph%201.png)
 
 Based from the charts above, we can guess how both lists differ from one another.
 
